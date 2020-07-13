@@ -4,7 +4,7 @@ Ruby and Rails enthusiast (e.g. Rubyist), analog photographer, free and scuba di
 
 ---
 
-Influences: Woz, Aaron Swartz, DHH, Sandi Metz, Uncle Bob, Brian Kernighan, Ken Thompson, Dennis Ritchie, Alan Turing, Ansel Adams, Alan Owl Wilson and so many others...
+Influences: Woz, Aaron Swartz, DHH, Sandi Metz, Uncle Bob, Brian Kernighan, Ken Thompson, Dennis Ritchie, Alan Turing, Ansel Adams, Alan Owl Wilson, Alvin Lee and so many others...
 
 ---
 
