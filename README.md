@@ -2,17 +2,11 @@
 
 Ruby and Rails enthusiast (e.g. Rubyist), analog photographer, free and scuba diver, bad flipper player, noizy guitar player. 
 
-'The best improving tools for code is the delete key.', Write Software Well, DHH.
+---
 
 Influences: Woz, Aaron Swartz, DHH, Sandi Metz, Uncle Bob, Brian Kernighan, Ken Thompson, Dennis Ritchie, Alan Turing, Ansel Adams, Alan Owl Wilson and so many others...
 
-I love read source code. (I looooove GitHub ;-) )
-Team #Qwerty-ansi, #thinkpad and #linux-mint.
-
-I love enough pinball to have one at home ;-)
-I love enough guitars to have many at home ;-)
-I love enough photography to have a lab at home ;-)
-I love enough code to write and read it at home ;-)
+---
 
 Here are my bullet point list:
 
