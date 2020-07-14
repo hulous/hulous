@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Ruby and Rails enthusiast (e.g. Rubyist), analog photographer, free and scuba diver, bad flipper player, noizy guitar player. 
+WhoIAm: Ruby and Rails enthusiast (e.g. Rubyist), analog photographer, free and scuba diver, bad flipper player, noizy guitar player. 
 
 ---
 
