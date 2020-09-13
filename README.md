@@ -8,6 +8,12 @@
 
 ---
 
+**Trophies:**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hulous)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 **My bullet points:**
 - 🔭 I’m currently working on mainly to save the world with [Effy](https://www.effy.fr)
 - 🌱 I’m currently learning forth and cobol for fun, some design pattern in c++ 20, and ruby.
