@@ -3,7 +3,7 @@
 ```text
 hulous@github
 ------------------------------
-- OS .................. GitHub, Ruby on Rails
+- OS .................. Linux, cp/m
 - Uptime .............. 15+ years coding
 - Role ................ Back-End / Full-Stack Dev
 - Location ............ Europe
