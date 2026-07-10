@@ -1,29 +1,32 @@
 <div valign="center">
 
-<span style="color: #6ee687;">hulous@github</span>
+```text
+hulous@github
 ------------------------------
-- <span style="color: #4eafe6;">OS</span> GitHub, Ruby on Rails
-- <span style="color: #4eafe6;">Uptime</span> 15+ years coding
-- <span style="color: #4eafe6;">Role</span> Back-End / Full-Stack Dev
-- <span style="color: #4eafe6;">Location</span> Europe
+- OS .................. GitHub, Ruby on Rails
+- Uptime .............. 15+ years coding
+- Role ................ Back-End / Full-Stack Dev
+- Location ............ Europe
 
-- <span style="color: #4eafe6;">Languages.Backend</span> Ruby, Java, PHP, C++
-- <span style="color: #4eafe6;">Languages.Frontend</span> TypeScript, Angular
-- <span style="color: #4eafe6;">Frameworks</span> Rails, Spring Boot
-- <span style="color: #4eafe6;">Currently</span> Learning Spring Boot / Angular
+- Languages.Backend ... Ruby, Java, PHP, C++
+- Languages.Frontend .. TypeScript, Angular
+- Frameworks .......... Rails, Spring Boot
+- Currently ........... Learning Spring Boot / Angular
 
-<span style="color: #6ee687;">Contact</span>
+Contact
 ------------------------------
-- <span style="color: #4eafe6;">LinkedIn</span> in/fbenariac
-- <span style="color: #4eafe6;">Instagram</span> fhulous
-- <span style="color: #4eafe6;">GitHub</span> github.com/hulous
+- LinkedIn ............ in/fbenariac
+- Instagram ........... fhulous
+- GitHub .............. github.com/hulous
 
-<span style="color: #6ee687;">GitHub Stats</span>
+GitHub Stats
 ------------------------------
-- <span style="color: #4eafe6;">Repos</span> 14
-- <span style="color: #4eafe6;">Stars</span> 41
-- <span style="color: #4eafe6;">Followers</span> 31
-- <span style="color: #4eafe6;">Following</span> 51
+- Repos ............... 14
+- Stars ............... 41
+- Followers ........... 31
+- Following ........... 51
+```
+
 
 </div>
 
