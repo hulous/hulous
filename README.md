@@ -1,7 +1,4 @@
-<table>
-<tr>
-<td valign="center"><img src="./assets/ascii-art-neg-cyan.png" alt="ASCII portrait" width="480"></td>
-<td valign="center">
+<div valign="center">
 
 <span style="color: #6ee687;">hulous@github</span>
 ------------------------------
@@ -28,9 +25,7 @@
 - <span style="color: #4eafe6;">Followers</span> 31
 - <span style="color: #4eafe6;">Following</span> 51
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
