@@ -14,15 +14,8 @@ hulous@github
 - Languages.Backend ... Ruby, Java, PHP, C++
 - Languages.Frontend .. TypeScript, Angular
 - Frameworks .......... Rails, Spring Boot
-- Currently ........... Learning Spring Boot / Angular
+- Currently ........... Learning Spring Boot / Angular, and Ollama on side.
 
-GitHub Stats
-------------------------------
-- Public repos ........ 13
-- Stars ............... 41
-- Followers ........... 32
-- Following ........... 52
-- Contributions ....... 2,079 last year
 ```
 
 
