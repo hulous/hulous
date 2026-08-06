@@ -8,7 +8,8 @@ hulous@github
 - Uptime .............. 15+ years coding
 - Role ................ Back-End / Full-Stack Dev
 - Location ............ Somewhere in Europe
-- Bio / the grid ...... Ruby/Rails developer with 15+ years building production-grade web apps. Currently expanding into Java, Spring Boot, TypeScript, and Angular.
+- Bio / the grid ...... Ruby/Rails developer with 15+ years building production-grade web apps.
+                           Currently expanding into Java, Spring Boot, TypeScript, and Angular.
 
 - Languages.Backend ... Ruby, Java, PHP, C++
 - Languages.Frontend .. TypeScript, Angular
