@@ -10,6 +10,7 @@ hulous@github
 - Location ............ Somewhere in Europe
 - Bio / the grid ...... Ruby/Rails developer with 15+ years building production-grade web apps.
                            Currently expanding into Java, Spring Boot, TypeScript, and Angular.
+                           I am curious about having your own AI team on your own machine, with no internet.
 
 - Languages.Backend ... Ruby, Java, PHP, C++
 - Languages.Frontend .. TypeScript, Angular
