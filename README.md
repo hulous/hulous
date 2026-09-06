@@ -5,7 +5,7 @@ hulous@github
 ------------------------------
 - Name ................ Fabien B.
 - OS .................. Linux, cp/m
-- Uptime .............. 15+ years coding
+- Uptime .............. 15+ years pro coding (so much more as hobbyist)
 - Role ................ Back-End / Full-Stack Dev
 - Location ............ Somewhere in Europe
 - Bio / the grid ...... Ruby/Rails developer with 15+ years building production-grade web apps.
@@ -71,14 +71,6 @@ Back-end developer with 15+ years building production-grade web apps in **Ruby o
 - Building **ScheduleMe**, a Calendly-style scheduling app in Spring Boot + Thymeleaf
 - Running and improving [**PhotoMeeter**](https://photomeeter.eu), a meetup idea for photographer and citywalks
 - Completing an *Expert en Développement Logiciel* certification (RNCP41330)
-
-### 🏆 GitHub Achievements
-
-- Pair Extraordinaire x3
-- Quickdraw
-- YOLO
-- Arctic Code Vault Contributor
-- Pull Shark x3
 
 ### 📌 Pinned work
 
