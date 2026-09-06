@@ -15,7 +15,7 @@ hulous@github
 - Languages.Backend ... Ruby, Java, PHP, C++
 - Languages.Frontend .. TypeScript, Angular
 - Frameworks .......... Rails, Spring Boot, Angular
-- Currently ........... Learning Spring Boot / Angular, and How to run some LLM locally on side.
+- Currently ........... Looking for new challenge(s), and How to run some LLM locally.
 
 ```
 
