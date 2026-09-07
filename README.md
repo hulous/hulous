@@ -28,7 +28,6 @@ hulous@github
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fbenariac-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fbenariac)
 [![Instagram](https://img.shields.io/badge/Instagram-fhulous-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/fhulous)
-[![GitHub followers](https://img.shields.io/github/followers/hulous?label=Followers&style=flat&color=6ee787&labelColor=0d1117)](https://github.com/hulous?tab=followers)
 
 </div>
 
