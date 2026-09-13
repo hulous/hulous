@@ -6,7 +6,7 @@ hulous@github
 - Name ................ Fabien B.
 - OS .................. Linux, cp/m
 - Uptime .............. 15+ years pro coding (so much more as hobbyist)
-- Role ................ Back-End / Full-Stack Dev
+- Role ................ Full-Stack (web) Dev
 - Location ............ Somewhere in Europe
 - Bio / the grid ...... Ruby/Rails developer with 15+ years building production-grade web apps.
                            Currently expanding into Java, Spring Boot, TypeScript, and Angular.
@@ -63,7 +63,7 @@ hulous@github
 
 ### 👋 About
 
-Back-end developer with 15+ years building production-grade web apps in **Ruby on Rails**, now expanding into **Java / Spring Boot**, **TypeScript** and **Angular**. I enjoy exploring different languages and paradigms. 🙂
+Web Software developer with 15+ years building production-grade web apps in **Ruby on Rails**, now expanding into **Java / Spring Boot**, **TypeScript** and **Angular**. I enjoy exploring different languages and paradigms. 🙂
 
 ### 🛠️ Currently
 
