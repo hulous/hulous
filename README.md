@@ -12,7 +12,7 @@ hulous@github
                            Currently expanding into Java, Spring Boot, TypeScript, and Angular.
                            I am curious about having (and build) my AI team on my machine, with no internet.
 
-- Languages.Backend ... Ruby, Java, PHP, C++
+- Languages.Backend ... Ruby, Java
 - Languages.Frontend .. TypeScript, Angular
 - Frameworks .......... Rails, Spring Boot, Angular
 - Currently ........... Looking for new challenge(s), and How to run some LLM locally.
@@ -46,9 +46,6 @@ hulous@github
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
-
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
-[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 [![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
