@@ -67,7 +67,7 @@ Web Software developer with 15+ years building production-grade web apps in **Ru
 - Building **ScheduleMe**, a Calendly-style scheduling app in Spring Boot + Thymeleaf
 - Building **uChat**, a micro chat websoftware with Spring Boot and Angular. Source code comming soon.
 - Running and improving [**PhotoMeeter**](https://photomeeter.eu), a meetup idea for photographer and citywalks
-- Just complete an *Expert en Développement Logiciel* certification (RNCP41330)
+- Just complete an *Expert en Développement Logiciel* certification (RNCP41330 – RNCP level 7, EQF level 7)
 
 ### 📌 Pinned work
 
